@@ -1,8 +1,9 @@
 # hello-world
 
-First modification
+first modification
 
-seond on bash git
+second on bash git
 
-modify on linux
+modify on Linux
 
+edit in atom
