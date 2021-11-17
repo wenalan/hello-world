@@ -9,3 +9,6 @@ modify on Linux
 edit in atom
 
 edit in vscode
+
+edit on termux
+
